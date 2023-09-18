@@ -1,0 +1,7 @@
+echo "# 123321" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/El-123Matadoro/123321.git
+ git push -у походження головний
