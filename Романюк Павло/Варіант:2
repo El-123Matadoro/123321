@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Варіант 2:</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+    <table>
+        <tr>
+            <th>Місто </th>
+            <th>Населення </th>
+        </tr>
+        <tr>
+            <td>Дублін </td>
+            <td>1,1 млн.ос. 1</td>
+        </tr>
+        <tr>
+            <td>Ель-Ріяд</td>
+            <td>7,6 млн.ос.</td>
+        </tr>
+        <tr>
+            <td>Мюнхен</td>
+            <td>1,4 млн.ос.</td>
+        </tr>
+        <tr>
+            <td>Детрой</td>
+            <td>0,6 млн.ос.</td>
+        </tr>
+        <tr>
+            <td>Рядок 5</td>
+            <td>Рядок 5</td>
+        </tr>
+    </table>
+
+</body>
+</html>
