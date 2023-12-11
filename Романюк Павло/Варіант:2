@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Варіант 2:</title>
+    <title>Табличка</title>
     <style>
         table {
             width: 50%;
@@ -21,15 +21,15 @@
 
     <table>
         <tr>
-            <th>Місто </th>
-            <th>Населення </th>
+            <th>Місто</th>
+            <th>Населення</th>
         </tr>
         <tr>
-            <td>Дублін </td>
-            <td>1,1 млн.ос. 1</td>
+            <td>Дублін</td>
+            <td>1,1 млн.ос.</td>
         </tr>
         <tr>
-            <td>Ель-Ріяд</td>
+            <td>Ер-Ріяд</td>
             <td>7,6 млн.ос.</td>
         </tr>
         <tr>
@@ -40,10 +40,7 @@
             <td>Детрой</td>
             <td>0,6 млн.ос.</td>
         </tr>
-        <tr>
-            <td>Рядок 5</td>
-            <td>Рядок 5</td>
-        </tr>
+        
     </table>
 
 </body>
